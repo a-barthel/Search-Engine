@@ -1,0 +1,8 @@
+Andrew Barthel
+CS251 Data Structures and Algorithms
+Lab 3 : Search Engine
+
+Everything you could think of works in this lab folder except for:
+
+Case-insensitive searches with the hash table
+Remove Element psudo works partially in AVL Tree
